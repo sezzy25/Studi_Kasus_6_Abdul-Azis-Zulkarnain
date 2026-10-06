@@ -1,0 +1,29 @@
+[
+    {
+        "nama": "Azis",
+        "nim": "123456",
+        "kelas": "B",
+        "nilai": 90
+    },
+    {
+        "nama": "Azis",
+        "nim": "123456",
+        "kelas": "B",
+        "nilai": 90
+    },
+    {
+        "nim": "123456",
+        "nama": "azis",
+        "nilai": "90"
+    },
+    {
+        "nim": "123456",
+        "nama": "Azis",
+        "nilai": "90"
+    },
+    {
+        "nama": "123456",
+        "nim": "Azis",
+        "nilai": "90"
+    }
+]
