@@ -10,7 +10,7 @@ while True:
 
     if pilihan == "1":
         nama = input(":masukkan Nama: ")
-        nim = input(":masukkan Nim: ")
+        nim = input(":masukkan NIM: ")
         nilai = input("Masukkan Nilai: ")
 
         data_baru = {
