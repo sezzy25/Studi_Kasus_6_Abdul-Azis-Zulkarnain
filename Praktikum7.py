@@ -9,8 +9,8 @@ while True:
     pilihan = input("Pilih menu (1/2/3): ")
 
     if pilihan == "1":
-        nim = input(":masukkan nama: ")
-        nama = input(":masukkan nim: ")
+        nama = input(":masukkan Nama: ")
+        nim = input(":masukkan Nim: ")
         nilai = input("Masukkan Nilai: ")
 
         data_baru = {
